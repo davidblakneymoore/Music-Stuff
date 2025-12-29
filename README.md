@@ -1,6 +1,6 @@
 # Music Stuff
 
-Hi! My name is David Moore. I'm a musician, composer, and educator located in New Hampshire. Read more about him [here](https://github.com/davidblakneymoore/Music-Stuff/blob/main/Resume%CC%81.pdf).
+Hi! My name is David Moore. I'm a musician, composer, and educator located in New Hampshire. [Here](https://github.com/davidblakneymoore/Music-Stuff/blob/main/Resume%CC%81.pdf) is a little bit about me.
 
 ![David Moore](https://github.com/user-attachments/assets/c184ad36-72ce-467c-b08c-251abe24ffca)
 
